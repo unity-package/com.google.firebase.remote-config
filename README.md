@@ -2,12 +2,12 @@
 ### Install by add directly in `manifest.json` in folder `Packages/manifest.json`
 - for version `12.9.0`
 ```json
-"com.google.firebase.remote-config" : "https://github.com/RageAgainstThePixel/com.google.firebase.remote-config.git#12.9.0"
+"com.google.firebase.remote-config" : "https://github.com/RageAgainstThePixel/com.google.firebase.remote-config.git#12.9.0",
 ```
 - dependency `com.google.firebase.app 12.9.0`, `external-dependency-manager 1.2.186`
 ```json
-"com.google.firebase.app" : "https://github.com/RageAgainstThePixel/com.google.firebase.app.git#12.9.0"
-"com.google.external-dependency-manager": "https://github.com/googlesamples/unity-jar-resolver.git?path=upm#v1.2.186"
+"com.google.firebase.app" : "https://github.com/RageAgainstThePixel/com.google.firebase.app.git#12.9.0",
+"com.google.external-dependency-manager": "https://github.com/googlesamples/unity-jar-resolver.git?path=upm#v1.2.186",
 ```
 
 Get Started with Firebase Remote Config
